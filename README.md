@@ -7,7 +7,7 @@ Tracking Mental Harrasment and Psychic Scammers
 # AUTHOR 
 
 CULTURE.SUPPORT 
-and its Villain Progresses into and its roles into network interception and arp network analysis
+- Villain Progresses into and its roles into network interception and arp network analysis
 for mission to safeguard networks and protect its own sections from the illcit
 
 - #C language 
