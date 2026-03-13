@@ -3,6 +3,16 @@ Tracking Mental Harrasment and Psychic Scammers
 
 -------------------
 -------------------
+
+# AUTHOR 
+
+CULTURE.SUPPORT and its Villain Progresses into
+
+- #C language 
+- Dathu Language
+- Web Api
+
+
 --------------------
 ------------------------
 
