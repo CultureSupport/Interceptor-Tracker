@@ -22,6 +22,7 @@ for mission to safeguard networks and protect its own sections from the illcit
 - We Block out Fake Botnets and Trackers
 - We Block Out Fake SmS stingray Cathcers
 - We Block Out Fake Gateway Proxies
+- We Block Out Infastructure Harmers and Electric Grid Scramblers
   
 -----
 
